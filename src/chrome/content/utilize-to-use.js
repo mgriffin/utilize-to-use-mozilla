@@ -36,6 +36,9 @@
         v = v.replace(/\bUtilise\b/g, "Use");
         v = v.replace(/\butilise\b/g, "use");
     
+        v = v.replace(/\bObligate\b/g, "Oblige");
+        v = v.replace(/\bobligate\b/g, "oblige");
+    
         textNode.nodeValue = v;
     }
 
