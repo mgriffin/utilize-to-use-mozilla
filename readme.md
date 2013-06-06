@@ -16,12 +16,12 @@ to change it to its more plain english cousin.
 
 Download [UtilizeToUse.xpi](https://raw.github.com/mgriffin/utilize-to-use-mozilla/blob/master/UtilizeToUse.xpi?raw=true)
 
-## Changelog
+## History
 
-### 1.1 - Adds another annoying word
+#### 1.1 - Adds another annoying word
 
-Adds obligate to the list of annoying words, changes it to oblige
+- Adds obligate to the list of annoying words, changes it to oblige
 
-### 1.0 - Initial release
+#### 1.0 - Initial release
 
-Changes utilize or utilise to use
+- Changes utilize or utilise to use
